@@ -1,0 +1,40 @@
+export type CommentsType = {
+    postedByUsername: string,
+    postedWeeksAgo: number,
+    postedMonthsAgo: number,
+    postContent: string,
+    reactionsCount?: number,
+    postCommentId: number,
+    postedYearsAgo: number,
+    postedSecondsAgo: number,
+    postedDaysAgo: number,
+    postedMinutesAgo: number,
+    postedByName: string,
+    isOwnPost: boolean,
+    profileImageUrl: string,
+    status: string,
+    postedHoursAgo: number
+    commentReplies?: CommentsType[]
+}
+
+export type FeedDetailsType = {
+    postedByUsername: string,
+    postedWeeksAgo: number,
+    postedMonthsAgo: number,
+    comments: CommentsType[],
+    status: string,
+    postedHoursAgo: number,
+    postContent: string,
+    reactionsCount: number,
+    postedYearsAgo: number,
+    postedSecondsAgo: number,
+    postId: number,
+    postedDaysAgo: number,
+    postedMinutesAgo: number,
+    postedByName: string,
+    isOwnPost: false,
+    commentsCount: number,
+    postDate: string,
+    profileImageUrl: string,
+    postImages: string[],
+}

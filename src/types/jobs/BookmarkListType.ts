@@ -1,0 +1,31 @@
+export type BookmarkListType = {
+    benefits: string
+    tokenTypeId: number
+    publishedMonthsAgo: number
+    jobPostingStatus: string
+    companyName: string
+    workModeIdsString: number
+    description: string
+    title: string
+    employmentTypeIdsString: number
+    publishedMinutesAgo: number
+    publishedDaysAgo: number
+    locationIdsString: number
+    applicantsCount: number
+    publishingStatus: string
+    publishedWeeksAgo: number
+    profileimageUrl: string
+    companyOverview: string
+    salaryRange: string
+    educationLevelIdsString: string
+    salaryRangeId: number
+    hiringManager: string
+    jobId: number
+    companyId: number
+    publishedHoursAgo: number
+    publishedDate: string
+    workingDayIdsString: number
+    tokenType: string
+    experienceLevelIdsString: number
+    duties: string
+}

@@ -1,0 +1,30 @@
+export type EmployerProfileType = {
+    role: string
+    bio: string
+    updatedDate: string
+    ssm: string
+    employerIndustryId: number
+    joinedOnDate: string
+    websiteUrl: string
+    locationId: number
+    id: number
+    businessAddress: string
+    profileImageUrl: string
+    profileBannerUrl: string
+    email: string
+    employerCompanySizeId: number
+    employerPremiumTokensCount: number
+    galleryImagesUrls: string[]
+    employerIndustry: string
+    createdDate: string
+    phoneNumber: string
+    phoneNumberDataId: number
+    employerCompanySize: string
+    phoneNumberCountry: string
+    additionalLinks: string
+    name: string
+    employerBasicTokensCount: number
+    status: string
+    username: string
+    additionalLinksList: string[]
+}
