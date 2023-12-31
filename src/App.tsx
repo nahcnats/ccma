@@ -156,12 +156,12 @@ const App = () => {
     'TrapBold': require('./assets/fonts/TrapFonts/Trap-Bold.ttf'),
   });
 
-  Sentry.init({
-    dsn: "https://c204c645e6cb4fa7b6195780c59bb9cb@o4505186839429120.ingest.sentry.io/4505289214066688",
+  //Sentry.init({
+    //dsn: "",
     // Set tracesSampleRate to 1.0 to capture 100% of transactions for performance monitoring.
     // We recommend adjusting this value in production.
-    tracesSampleRate: 1.0,
-  });
+    //tracesSampleRate: 1.0,
+  //});
 
   const init = async () => {
     try {
