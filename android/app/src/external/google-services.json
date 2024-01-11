@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "65688697019",
+    "firebase_url": "https://cultcreative-afbab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cultcreative-afbab",
+    "storage_bucket": "cultcreative-afbab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65688697019:android:0fd1f0aa0529cb5496919e",
+        "android_client_info": {
+          "package_name": "asia.cultcreative.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65688697019-1im6b5mqqc0g3alnjri87utk3nvsi4nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "asia.cultcreative.app",
+            "certificate_hash": "4f926338e2681d7579dcd40421644fcff0214794"
+          }
+        },
+        {
+          "client_id": "65688697019-kmb9jie8jspvr3opbkqhf9ip76eeefrp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "asia.cultcreative.app",
+            "certificate_hash": "28271de72a4b5dc27d1153d4a6d581abaffc2631"
+          }
+        },
+        {
+          "client_id": "65688697019-442fmi53441pttme25otp8iovkdkoe5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZDN_T9TXrRmudXkbhYLj-AOiYmAyCOIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65688697019-442fmi53441pttme25otp8iovkdkoe5f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "65688697019-at7vpnjsngk61if0usrilsogua8l90j0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thetechyhub.cultcreative"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65688697019:android:70d44b5056504bc896919e",
+        "android_client_info": {
+          "package_name": "com.cultcreative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65688697019-j45u3enhhm01unc6f96rmo09la19tu68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cultcreative",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "65688697019-442fmi53441pttme25otp8iovkdkoe5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZDN_T9TXrRmudXkbhYLj-AOiYmAyCOIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65688697019-442fmi53441pttme25otp8iovkdkoe5f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "65688697019-at7vpnjsngk61if0usrilsogua8l90j0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thetechyhub.cultcreative"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

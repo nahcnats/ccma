@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "652243107680",
+    "firebase_url": "https://cultcreative-bafaa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cultcreative-bafaa",
+    "storage_bucket": "cultcreative-bafaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652243107680:android:e39c8797e5f897e5a2e805",
+        "android_client_info": {
+          "package_name": "com.cultcreative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652243107680-f6hf4gl4mtea3jv81n8dbjop1ndtmms1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFsJSmg9vUZCZUomHSXIwfHXE_J6E_ai4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652243107680-f6hf4gl4mtea3jv81n8dbjop1ndtmms1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652243107680-254hntvoicf067snbq9micogn1t94o0l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "asia.cultcreative.test",
+                "app_store_id": "1584063189"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652243107680:android:85b94f29d3f5fe34a2e805",
+        "android_client_info": {
+          "package_name": "com.thetechyhub.cultcreative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652243107680-1l41bs0v3bfo3dul92pmhgju1coul8im.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thetechyhub.cultcreative",
+            "certificate_hash": "6843112a3d2982e15ef8b767459face87fd5115a"
+          }
+        },
+        {
+          "client_id": "652243107680-bpapisu6v4gj82bnaphjk3rbnnpnj841.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thetechyhub.cultcreative",
+            "certificate_hash": "9fb35bb932cddb8fcd0580088e71369855f0fa99"
+          }
+        },
+        {
+          "client_id": "652243107680-f6hf4gl4mtea3jv81n8dbjop1ndtmms1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFsJSmg9vUZCZUomHSXIwfHXE_J6E_ai4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652243107680-f6hf4gl4mtea3jv81n8dbjop1ndtmms1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652243107680-254hntvoicf067snbq9micogn1t94o0l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "asia.cultcreative.test",
+                "app_store_id": "1584063189"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
